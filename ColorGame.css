@@ -1,0 +1,21 @@
+body{
+    background:black;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+.square{
+    background:purple;
+    width:30%;
+    padding-top: 30%;
+    float: left;
+    margin:1.66%
+}
+#container{
+    max-width: 600px;
+    margin:0 auto;
+}
+#message{
+    color:white;
+}
