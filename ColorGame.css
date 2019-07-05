@@ -1,21 +1,27 @@
 body{
-    background:black;
+    background: rgb(0, 0, 0);
 }
 h1{
     color:white;
     text-align: center;
 }
 .square{
-    background:purple;
+    background: salmon;
     width:30%;
-    padding-top: 30%;
-    float: left;
-    margin:1.66%
+    padding-bottom: 30%;
+    float:left;
+    margin:1.66%;
 }
 #container{
     max-width: 600px;
-    margin:0 auto;
+    margin: auto;
 }
 #message{
-    color:white;
+    color:black;
+}
+
+#stripe{
+    background:white;
+    height: 30px;
+    text-align: center;
 }
